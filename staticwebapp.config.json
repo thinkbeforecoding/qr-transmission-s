@@ -1,6 +1,16 @@
 {
     "routes": [
         {
+            "route": "/situation-14",
+            "redirect": "https://transmission-s.com/ateliers/",
+            "statusCode": 302
+        },
+        {
+            "route": "/situation-15",
+            "redirect": "https://transmission-s.com/film/",
+            "statusCode": 302
+        },
+        {
             "route": "/*",
             "redirect": "https://transmission-s.com",
             "statusCode": 302
