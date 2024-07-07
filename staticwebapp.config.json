@@ -3,7 +3,7 @@
         {
             "route": "/*",
             "redirect": "https://transmission-s.com",
-            "statusCode": 303
+            "statusCode": 302
         }
     ]
 }
